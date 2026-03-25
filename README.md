@@ -40,3 +40,6 @@ Apprendre et maîtriser les commandes de base de Git en ligne de commande.
 ![Pull Request Success](images/pull_request_sucess.png)
 ![Merge Pull](images/merge_pull.png)
 ![Fusion Dev vers Master](images/devtomaster.png)
+### 6. les Etapes en ordre :
+
+
